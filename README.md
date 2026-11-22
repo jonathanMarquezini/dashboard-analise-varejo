@@ -1,4 +1,4 @@
-# 📊 Dashboard de Análise de Varejo (Power BI)
+# 📊 Dashboard de Análise de Varejo (Power BI) - (Primeiro Projeto Criado)
 
 Projeto de análise de dados comerciais desenvolvido no **Power BI** com foco no acompanhamento de indicadores de vendas, comportamento da base de clientes e desempenho de categorias e produtos no varejo de tecnologia/eletrônicos.
 
